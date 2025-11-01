@@ -1,1 +1,1 @@
-This is the fitst git file
+This is the first git file
